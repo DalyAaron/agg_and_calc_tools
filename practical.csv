@@ -1,0 +1,21 @@
+date,id,ticker,name,analyst,sector,pal,exposure
+20180201,C_US,C,Citigroup Inc,Alice,Finance,118700,2374000
+20180201,C_US,C,Citigroup Inc,Bob,Finance,87600,1752000
+20180201,IBM_US,IBM,International Business Machines Corp.,Alice,Technology,238600,3976666.667
+20180201,XOM_US,XOM,Exxon Mobil Corporation,Bob,Energy,378500,3154166.667
+20180202,C_US,C,Citigroup Inc,Alice,Finance,100895,2474895
+2022018,C_US,C,Citigroup Inc,Bob,Finance,74460,1826460
+20180202,IBM_US,IBM,International Business Machines Corp.,Alice,Technology,229056,4205722.667
+20180202,XOM_US,XOM,Exxon Mobil Corporation,Bob,Energy,208175,3362341.667
+20180205,C_US,C,Citigroup Inc,Alice,Finance,-142440,2332455
+20180205,C_US,C,Citigroup Inc,Bob,Finance,-105120,1721340
+20180205,IBM_US,IBM,International Business Machines Corp.,Alice,Technology,7158,4212880.667
+20180205,XOM_US,XOM,Exxon Mobil Corporation,Bob,Energy,-321725,3040616.667
+20180206,C_US,C,Citigroup Inc,Alice,Finance,89025,2421480
+20180206,C_US,C,Citigroup Inc,Bob,Finance,65700,1787040
+20180206,IBM_US,IBM,International Business Machines Corp.,Alice,Technology,157476,4370356.667
+20180206,XOM_US,XOM,Exxon Mobil Corporation,Bob,Energy,287660,3328276.667
+20180207,C_US,C,"Citigroup, Inc",Alice,Finance,51041,2472521
+20180207,C_US,C,Citigroup Inc,Bob,Finance,37668,1824708
+20180207,IBM_US,IBM,International Business Machines Corp.,Alice,Technology,243372,4613728.667
+20180207,XOM_US,XOM,Exxon Mobil Corporation,Bob,Energy,-283875,3044401.667
